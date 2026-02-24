@@ -73,6 +73,12 @@ Each table has 35+ realistic records.
 
 ---
 
+## DASHBOARD Preview
+
+![Executive Summary](Screenshots/Page1_ExecutiveSummary.png.png)
+
+---
+
 ## 🚀 How to Use
 1. Run SQL scripts from `1_SQL_Scripts/`
 2. Open `.pbix` file in Power BI

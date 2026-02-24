@@ -75,7 +75,7 @@ Each table has 35+ realistic records.
 
 ## 📷 Dashboard Preview
 
-![Executive Summary](Screenshots/Page1_ExecutiveSummary.png.png)
+![Executive Summary](Screenshots/Page1_ExecutiveSummary.png)
 
 ---
 
